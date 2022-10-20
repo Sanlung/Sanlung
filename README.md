@@ -35,7 +35,7 @@ I am a full stack software engineer <img src="https://media.giphy.com/media/WUlp
 
 - :bulb: I have trained in the MERN stack, Django and Ruby on Rails.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChungKao-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chung-kao/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChungKao-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chung-kao/)
 
 ___
 
