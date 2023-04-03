@@ -29,7 +29,7 @@
 
 I am a full stack software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Taiwan.
 
-- :steam_locomotive: I am well organized, detail-orientaed and self-motivated.
+- :steam_locomotive: I am well organized, detail-oriented and self-motivated.
 
 - :bug: I love solving buggy code and don't mind loosing sleep over it.
 
